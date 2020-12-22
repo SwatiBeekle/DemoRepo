@@ -14,6 +14,7 @@ public class DynamicxpathEx {
 		driver.findElement(By.name("username")).sendKeys("naveen");
 		driver.findElement(By.name("password")).sendKeys("test@123");
 		driver.findElement(By.xpath("//input[@type='submit']")).click();
+		System.out.println("github repository")
 	}
 
 }
