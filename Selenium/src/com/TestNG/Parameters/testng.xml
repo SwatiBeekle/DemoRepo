@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="test_Suite">
+  <test  name="WithParameter">
+  <parameter name="author" value="varun"/>
+  <parameter name="searchkey" value="India"/>
+    <classes>
+      <class name="com.TestNG.Parameters.Withparametr"/>
+    </classes>
+  </test> <!-- WithParameter -->
+</suite> <!-- test_Suite -->

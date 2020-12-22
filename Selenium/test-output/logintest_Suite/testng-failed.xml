@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [logintest_Suite]">
+  <test thread-count="5" name="Parameter_LoginPage(failed)">
+    <parameter name="url" value="http://localhost:8081/login.do"/>
+    <parameter name="username" value="admin"/>
+    <classes>
+      <class name="com.TestNG.LoginParameterEx">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.TestNG.LoginParameterEx -->
+    </classes>
+  </test> <!-- Parameter_LoginPage(failed) -->
+</suite> <!-- Failed suite [logintest_Suite] -->

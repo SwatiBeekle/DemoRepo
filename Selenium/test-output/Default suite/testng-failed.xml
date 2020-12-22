@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.TestNG.Dataprovider.parameterwith_Methodlevel">
+        <methods>
+          <include name="tearDown"/>
+          <include name="SetUp"/>
+          <include name="MethodB"/>
+        </methods>
+      </class> <!-- com.TestNG.Dataprovider.parameterwith_Methodlevel -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

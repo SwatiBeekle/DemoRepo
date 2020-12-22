@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/P5U2SB8J/okio-1.14.0[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/5XKRXY6N/client-combined-3.141.59-sources[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/P5U2SB8J/byte-buddy-1.8.15[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/2VGFL4XX/commons-exec-1.3[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/NUZR1E6L/guava-25.0-jre[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/5XKRXY6N/okhttp-3.11.0[1].jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/AppData/Local/Microsoft/Windows/INetCache/IE/P5U2SB8J/client-combined-3.141.59[1].jar"/>
+	<classpathentry kind="lib" path="D:/DevOps/htmlunit-driver-2.45.0-jar-with-dependencies (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/poi/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/poi/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/poi/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/poi/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/poi/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

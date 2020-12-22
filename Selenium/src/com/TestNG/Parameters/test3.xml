@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_suite">
+<parameter name="a" value="40"/>
+<parameter name="b" value="20"/>
+  <test  name="Parameters">
+  <classes>
+  <class name="com.TestNG.Parameters.Sum"/>
+  <class name="com.TestNG.Parameters.Subtract"/>
+  <class name="com.TestNG.Parameters.Multiplication"/>
+  </classes>
+  </test> <!-- Parameters -->
+</suite> <!-- Test_suite -->

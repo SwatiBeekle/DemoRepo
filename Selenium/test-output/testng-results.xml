@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50231" started-at="2020-12-20T13:59:35 IST" finished-at="2020-12-20T14:00:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50231" started-at="2020-12-20T13:59:35 IST" finished-at="2020-12-20T14:00:25 IST">
+      <class name="com.TestNG.SingletonPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.TestNG.SingletonPageTest@7a36aefa]" name="SetUp" is-config="true" duration-ms="37133" started-at="2020-12-20T13:59:35 IST" finished-at="2020-12-20T14:00:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="gettest()[pri:0, instance:com.TestNG.SingletonPageTest@7a36aefa]" name="gettest" duration-ms="12400" started-at="2020-12-20T14:00:12 IST" finished-at="2020-12-20T14:00:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.TestNG.SingletonPageTest@7a36aefa]" name="teardown" is-config="true" duration-ms="594" started-at="2020-12-20T14:00:25 IST" finished-at="2020-12-20T14:00:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestNG.SingletonPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
